@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\Hi.exe
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\Hi.deps.json
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\Hi.runtimeconfig.json
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\Hi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\Hi.dll
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\ref\Hi.dll
+C:\Users\User\Desktop\Love\ich\Hi\bin\Debug\net5.0\Hi.pdb
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.AssemblyInfo.cs
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.dll
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\ref\Hi.dll
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.pdb
+C:\Users\User\Desktop\Love\ich\Hi\obj\Debug\net5.0\Hi.genruntimeconfig.cache
