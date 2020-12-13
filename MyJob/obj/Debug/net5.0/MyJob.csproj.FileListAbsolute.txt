@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\MyJob.exe
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\MyJob.deps.json
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\MyJob.runtimeconfig.json
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\MyJob.runtimeconfig.dev.json
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\MyJob.dll
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\ref\MyJob.dll
+C:\Users\User\Desktop\hh\ich\MyJob\bin\Debug\net5.0\MyJob.pdb
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.AssemblyInfo.cs
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.dll
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\ref\MyJob.dll
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.pdb
+C:\Users\User\Desktop\hh\ich\MyJob\obj\Debug\net5.0\MyJob.genruntimeconfig.cache
