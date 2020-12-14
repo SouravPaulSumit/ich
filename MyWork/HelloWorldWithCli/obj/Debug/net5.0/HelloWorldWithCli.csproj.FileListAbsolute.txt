@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\HelloWorldWithCli.exe
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\HelloWorldWithCli.deps.json
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\HelloWorldWithCli.runtimeconfig.json
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\HelloWorldWithCli.runtimeconfig.dev.json
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\HelloWorldWithCli.dll
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\ref\HelloWorldWithCli.dll
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\bin\Debug\net5.0\HelloWorldWithCli.pdb
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.csprojAssemblyReference.cache
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.AssemblyInfo.cs
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.dll
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\ref\HelloWorldWithCli.dll
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.pdb
+C:\Users\User\Desktop\cloned ich\ich\MyWork\HelloWorldWithCli\obj\Debug\net5.0\HelloWorldWithCli.genruntimeconfig.cache
